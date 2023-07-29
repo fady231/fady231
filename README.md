@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fady231
 - 👀 I’m interested in everything that works with cpu 
-- 🌱 I’m currently studying ...
 - 💞️ I’m looking to be leader  ...
-- 📫 How to reach me fadyraouf231@gmail.com
+- 📫 How to reach me raouffady231@gmail.com
 -
 
 <!---
